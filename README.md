@@ -1,20 +1,60 @@
-<h1 align="center">Hi 👋, My name is Daniil Aleshkivskyi</h1>
-<h3 align="center">Second year student at PJATK,have done 2 projects for now,on the way to gain more knowledges</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&weight=500&size=40&duration=2000&pause=300&color=F7F7F7&background=22FFCA00&center=true&multiline=true&repeat=false&width=1000&height=60&lines=Hey+there%2C+I'm+Daniil+Aleshkivskyi%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniilaleshkivskyi" alt="daniilaleshkivskyi" /></a> </p>
+<h3 align="center">🎓 2nd-year CS student at PJATK</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniil aleshkivskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil aleshkivskyi" height="30" width="40" /></a>
-<a href="https://fb.com/daniil aleshkivskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniil aleshkivskyi" height="30" width="40" /></a>
+---
+
+<h3 align="center">🧠 About Me</h3>
+
+🔹 🎓 I’m a **second-year Computer Science student** at **PJATK (Polsko-Japońska Akademia Technik Komputerowych)**  
+🔹 ⌨️ Built **4 full projects** using various technologies  
+🔹 📚 Currently learning: `C++`, `Java`, `Python`, `Bash`, `SQL`  
+🔹 🛠️ **Open to collaborations**, internships, and freelance opportunities
+
+
+---
+
+<h3 align="center">🚀 Completed Projects</h3>
+
+🔸 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 📊 **Performance Analyzer for Java Collections** — CLI tool + CSV export for benchmarking collections  
+🔸 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 🐢 **Turtle Bridge** — MVC-based Java game with custom UI, logic and sprites  
+🔸 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ⌨️ **Monkey Typer** — fast-paced typing game with animations, config menu and scoring  
+🔸 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white) 🎧 **Spotify Database** — 20-table relational DB with complex SQL queries and normalization
+
+
+---
+
+<h3 align="center">⚙️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SFML-8CC84B?style=flat-square&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilaleshkivskyi&show_icons=true&locale=en&layout=compact" alt="daniilaleshkivskyi" /></p>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilAleshkivskyi&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniilaleshkivskyi&show_icons=true&locale=en" alt="daniilaleshkivskyi" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniilAleshkivskyi&show_icons=true&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniilaleshkivskyi&" alt="daniilaleshkivskyi" /></p>
+---
 
+<h3 align="center">📬 Contact Me</h3>
+
+<p align="center">
+  <a href="mailto:your@email.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Daniil-Aleshkivskyi">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
